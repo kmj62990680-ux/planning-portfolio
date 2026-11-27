@@ -21,4 +21,4 @@
 
 ## 만든 과정
 
-- [PM과 AI의 역할 분담](ai-collaboration.md): 판단은 PM이, 구현은 AI가 맡아 하루 만에 출시한 과정
+- [PM과 AI의 역할 분담](ai-collaboration.md): 판단은 PM이, 구현은 AI가 맡아 첫 버전부터 하루 만에 출시한 과정
