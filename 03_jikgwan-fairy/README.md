@@ -21,3 +21,7 @@
 | [02 결정 기록](docs/02_decision-log.md) | 왜 이렇게 만들었나 |
 | [03 QA](docs/03_qa.md) | 사용자가 겪을 문제를 무엇으로 막았나 |
 | [04 출시와 운영](docs/04_launch-and-operation.md) | 무엇을 재고 다음에 무엇을 고치나 |
+
+## 만든 과정
+
+- [AI와 일한 방식](ai-collaboration.md): 요청 → AI가 한 것 → 내가 정한 것 (수집기 · 판정 · 디자인 · QA · 지표 등 8개 사례)
